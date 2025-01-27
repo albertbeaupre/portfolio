@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Spring Boot",
+    "imageSrc": "icons/spring_boot.png"
+  },
+  {
+    "title": "ReactJS",
+    "imageSrc": "icons/react.png"
+  },
+  {
+    "title": "Vaadin",
+    "imageSrc": "icons/vaadin.png"
+  },
+  {
+    "title": "JUnit",
+    "imageSrc": "icons/junit.png"
+  },
+  {
+    "title": "JPA",
+    "imageSrc": "icons/database.png"
+  },
+  {
+    "title": "Netty",
+    "imageSrc": "icons/netty.png"
+  }
+]

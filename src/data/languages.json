@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Java",
+    "imageSrc": "icons/java.png"
+  },
+  {
+    "title": "C#",
+    "imageSrc": "icons/cs.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "icons/javascript.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "icons/python.png"
+  },
+  {
+    "title": "Kotlin",
+    "imageSrc": "icons/kotlin.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "icons/css.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "icons/html5.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "icons/sql.png"
+  }
+]

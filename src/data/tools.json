@@ -1,0 +1,38 @@
+[
+  {
+    "title": "IntelliJ",
+    "imageSrc": "icons/intellij.png"
+  },
+  {
+    "title": "Visual Studio",
+    "imageSrc": "icons/visual_studio.png"
+  },
+  {
+    "title": "Visual Studio Code",
+    "imageSrc": "icons/visual_studio_code.png"
+  },
+  {
+    "title": "WebStorm",
+    "imageSrc": "icons/webstorm.png"
+  },
+  {
+    "title": "PyCharm",
+    "imageSrc": "icons/pycharm.png"
+  },
+  {
+    "title": "Eclipse",
+    "imageSrc": "icons/eclipse.png"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "icons/github.png"
+  },
+  {
+    "title": "BitBucket",
+    "imageSrc": "icons/bitbucket.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "icons/mysql.png"
+  }
+]

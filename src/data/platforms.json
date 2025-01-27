@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Windows",
+    "imageSrc": "icons/windows.png"
+  },
+  {
+    "title": "Linux",
+    "imageSrc": "icons/linux.png"
+  }
+]
