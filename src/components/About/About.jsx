@@ -12,7 +12,10 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <div className={styles.aboutItemText}>
               <p>
-                Software Developer and Army Veteran with a strong foundation in programming cultivated from early exposure to the programming community at the age of 13 beginning with reverse engineering of obfuscated code. Collaborated with multiple teams to contribute to the development and deployment of software servers, gaining valuable insights into programming, server infrastructure, and network communication. Transitioned into game development, acquiring extensive knowledge of client/server architecture and network communication protocols. Adept at authoring code derived from designing, building, and maintaining software and content creation tools.
+                I’ve been passionate about programming since I was 13, when I started reverse-engineering obfuscated RuneScape private server clients. It was tough—those systems are packed with complex networks, caches, and algorithms—but figuring them out taught me a ton about how these systems work and how to build things from scratch. It was a challenge I loved, and it’s what pushed me to dive deeper into programming.
+                <br>
+                  Now, I’m all about writing clean, efficient code and building software that’s secure, thread-safe, and optimized. Whether it’s improving performance or ensuring stability, I genuinely care about getting it right. Programming isn’t just something I do, it’s something I love, and I’m always working to get better at it. I’m ready to contribute however I can, even if it means starting at the bottom. I’m confident my passion and experience will make a difference.
+                </br>
               </p>
             </div>
           </li>
