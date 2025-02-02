@@ -1,64 +1,47 @@
 [
   {
-    "title": "Project A",
+    "title": "Front End Infrastructure",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Meant to assist developers in creating a stable front-end infrastructure efficiently.",
     "skills": [
-      "React",
-      "Express",
-      "Node"
+      "Java",
+      "IntelliJ",
+      "Gradle"
     ],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/albertbeaupre/frontend-infrastructure"
   },
   {
-    "title": "Project B",
+    "title": "Back End Infrastructure",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Meant to assist developers in creating a stable back-end infrastructure efficiently.",
     "skills": [
-      "React",
-      "Express",
-      "Node",
-      "Sass"
+      "Java",
+      "IntelliJ",
+      "Gradle"
     ],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/albertbeaupre/backend-infrastructure"
   },
   {
-    "title": "Project C",
+    "title": "Portfolio Website (This one :D)+",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "This a ReactJS website that I programmed. I utilized a public template I vastly modified and practically re-wrote.",
     "skills": [
       "React",
-      "Express",
-      "Node"
+      "CSS"
     ],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://albertbeaupre.github.io/portfolio/",
+    "source": "https://github.com/albertbeaupre/portfolio"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "title": "Messy",
+    "imageSrc": "projects/messy.png",
+    "description": "This is an Instant Messenger website build using Vaadin and Spring boot.",
     "skills": [
-      "React",
-      "Express",
-      "Node",
-      "Sass"
+      "Vaadin",
+      "Spring Boot",
+      "Java",
+      "Gradle"
     ],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": [
-      "React",
-      "Express",
-      "Node"
-    ],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://www.example.com"
   }
 ]
