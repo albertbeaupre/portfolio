@@ -8,10 +8,25 @@
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
   max-width: 345px;
+  max-height: 700px; /* Initially set the max height */
+  overflow: hidden; /* Initially cuts off content that overflows */
+  transition: max-height 0.3s ease, padding-bottom 0.3s ease, transform 0.3s ease, z-index 0s; /* Smooth height, padding, transform, and z-index transitions */
+  position: relative;
+}
+
+
+.container:hover {
+  z-index: 10;
+  /* Ensures it stays on top of other containers */
+  transform: scale(1.1);
 }
 
 .image {
   margin-bottom: 26px;
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+  /* Ensures the image maintains aspect ratio without distortion */
 }
 
 .title {

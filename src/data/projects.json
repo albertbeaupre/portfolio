@@ -1,7 +1,7 @@
 [
   {
-    "title": "Front End Infrastructure",
-    "imageSrc": "projects/project.png",
+    "title": "Front End Infrastructure (In Progress)",
+    "imageSrc": "projects/frontend-infrastructure.png",
     "description": "Meant to assist developers in creating a stable front-end infrastructure efficiently.",
     "skills": [
       "Java",
@@ -12,7 +12,7 @@
   },
   {
     "title": "Back End Infrastructure",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/backend-infrastructure.png",
     "description": "Meant to assist developers in creating a stable back-end infrastructure efficiently.",
     "skills": [
       "Java",
@@ -22,8 +22,8 @@
     "source": "https://github.com/albertbeaupre/backend-infrastructure"
   },
   {
-    "title": "Portfolio Website (This one :D)+",
-    "imageSrc": "projects/project.png",
+    "title": "Portfolio Website (This one)",
+    "imageSrc": "projects/portfolio.png",
     "description": "This a ReactJS website that I programmed. I utilized a public template I vastly modified and practically re-wrote.",
     "skills": [
       "React",
@@ -33,7 +33,7 @@
     "source": "https://github.com/albertbeaupre/portfolio"
   },
   {
-    "title": "Messy",
+    "title": "Messy (In Progress)",
     "imageSrc": "projects/messy.png",
     "description": "This is an Instant Messenger website build using Vaadin and Spring boot.",
     "skills": [
