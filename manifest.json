@@ -1,15 +1,15 @@
 {
   "assets/Resume-0346d48e.docx": {
     "file": "assets/Resume-0346d48e.docx",
-    "src": "assets/Resume.docx"
+    "src": "assets/Resume-0346d48e.docx"
   },
   "assets/Resume.docx": {
     "file": "assets/Resume-0346d48e.docx",
-    "src": "assets/Resume.docx"
+    "src": "assets/Resume-0346d48e.docx"
   },
   "assets/about/aboutImage.png": {
     "file": "assets/aboutImage-93a552a7.png",
-    "src": "assets/about/aboutImage.png"
+    "src": "assets/aboutImage-93a552a7.png"
   },
   "assets/about/cursorIcon.png": {
     "file": "assets/cursorIcon-22d0a330.png",
@@ -25,7 +25,7 @@
   },
   "assets/aboutImage-93a552a7.png": {
     "file": "assets/aboutImage-93a552a7.png",
-    "src": "assets/about/aboutImage.png"
+    "src": "assets/aboutImage-93a552a7.png"
   },
   "assets/backend-infrastructure-3f1a5447.png": {
     "file": "assets/backend-infrastructure-3f1a5447.png",
@@ -133,11 +133,11 @@
   },
   "assets/index-779b5b5f-0b1b47fa.js": {
     "file": "assets/index-779b5b5f-0b1b47fa.js",
-    "src": "assets/index-779b5b5f.js"
+    "src": "assets/index-779b5b5f-0b1b47fa.js"
   },
   "assets/index-779b5b5f.js": {
     "file": "assets/index-779b5b5f-0b1b47fa.js",
-    "src": "assets/index-779b5b5f.js"
+    "src": "assets/index-779b5b5f-0b1b47fa.js"
   },
   "assets/index-7cec503a-d4076d6a.css": {
     "file": "assets/index-7cec503a-d4076d6a.css",
@@ -153,19 +153,19 @@
   },
   "assets/index-be14831d-a0dd8513.js": {
     "file": "assets/index-be14831d-a0dd8513.js",
-    "src": "assets/index-be14831d-a0dd8513.js"
+    "src": "assets/index-be14831d.js"
   },
   "assets/index-be14831d.js": {
     "file": "assets/index-be14831d-a0dd8513.js",
-    "src": "assets/index-be14831d-a0dd8513.js"
+    "src": "assets/index-be14831d.js"
   },
   "assets/index-c81864f4-a2bbefad.js": {
     "file": "assets/index-c81864f4-a2bbefad.js",
-    "src": "assets/index-c81864f4-a2bbefad.js"
+    "src": "assets/index-c81864f4.js"
   },
   "assets/index-c81864f4.js": {
     "file": "assets/index-c81864f4-a2bbefad.js",
-    "src": "assets/index-c81864f4-a2bbefad.js"
+    "src": "assets/index-c81864f4.js"
   },
   "assets/index-ca57450c-07c6e400.js": {
     "file": "assets/index-ca57450c-07c6e400.js",
@@ -340,7 +340,7 @@
     "src": "assets/favicon-2e8995a7.ico"
   },
   "index.css": {
-    "file": "assets/index-54c928be.css",
+    "file": "assets/index-cc01d033.css",
     "src": "index.css"
   },
   "index.html": {
@@ -398,9 +398,9 @@
       "assets/roboto-vietnamese-400-normal-d2390f1a.woff"
     ],
     "css": [
-      "assets/index-54c928be.css"
+      "assets/index-cc01d033.css"
     ],
-    "file": "assets/index-5a9aeaf6.js",
+    "file": "assets/index-6f3c202b.js",
     "isEntry": true,
     "src": "index.html"
   },
