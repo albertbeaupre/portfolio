@@ -1,11 +1,11 @@
 {
   "assets/Resume-0346d48e.docx": {
     "file": "assets/Resume-0346d48e.docx",
-    "src": "assets/Resume-0346d48e.docx"
+    "src": "assets/Resume.docx"
   },
   "assets/Resume.docx": {
     "file": "assets/Resume-0346d48e.docx",
-    "src": "assets/Resume-0346d48e.docx"
+    "src": "assets/Resume.docx"
   },
   "assets/about/aboutImage.png": {
     "file": "assets/aboutImage-93a552a7.png",
@@ -40,12 +40,12 @@
     "src": "assets/icons/eclipse.png"
   },
   "assets/favicon-2e8995a7-2e8995a7.ico": {
-    "file": "assets/favicon-2e8995a7.ico",
-    "src": "assets/favicon-2e8995a7.ico"
+    "file": "assets/favicon-2e8995a7-2e8995a7.ico",
+    "src": "assets/favicon-2e8995a7-2e8995a7.ico"
   },
   "assets/favicon-2e8995a7.ico": {
-    "file": "assets/favicon-2e8995a7.ico",
-    "src": "assets/favicon-2e8995a7.ico"
+    "file": "assets/favicon-2e8995a7-2e8995a7.ico",
+    "src": "assets/favicon-2e8995a7-2e8995a7.ico"
   },
   "assets/frontend-infrastructure-e3a624a0.png": {
     "file": "assets/frontend-infrastructure-e3a624a0.png",
@@ -59,13 +59,17 @@
     "file": "assets/github-6f8014ec.png",
     "src": "assets/icons/github.png"
   },
-  "assets/hero/heroImage.png": {
-    "file": "assets/heroImage-5f5bf70c.png",
-    "src": "assets/hero/heroImage.png"
+  "assets/heroImage-5535b65d-5535b65d.png": {
+    "file": "assets/heroImage-5535b65d-5535b65d.png",
+    "src": "assets/heroImage-5535b65d-5535b65d.png"
   },
   "assets/heroImage-5535b65d.png": {
     "file": "assets/heroImage-5535b65d-5535b65d.png",
-    "src": "assets/heroImage-5535b65d.png"
+    "src": "assets/heroImage-5535b65d-5535b65d.png"
+  },
+  "assets/heroImage-5f5bf70c.png": {
+    "file": "assets/albert-5f5bf70c.png",
+    "src": "assets/images/albert.png"
   },
   "assets/icons/eclipse.png": {
     "file": "assets/eclipse-4d2e9745.png",
@@ -103,6 +107,10 @@
     "file": "assets/whatsapp-b6fc227e.png",
     "src": "assets/whatsapp-b6fc227e.png"
   },
+  "assets/images/albert.png": {
+    "file": "assets/albert-5f5bf70c.png",
+    "src": "assets/images/albert.png"
+  },
   "assets/index-01bf326e-b5a24707.js": {
     "file": "assets/index-01bf326e-b5a24707.js",
     "src": "assets/index-01bf326e.js"
@@ -119,17 +127,25 @@
     "file": "assets/index-0e5eed69-18d19321.js",
     "src": "assets/index-0e5eed69.js"
   },
+  "assets/index-15acfed8.js": {
+    "file": "assets/index-15acfed8-3beb9837.js",
+    "src": "assets/index-15acfed8.js"
+  },
+  "assets/index-163baa38-c10f2995.js": {
+    "file": "assets/index-163baa38-c10f2995.js",
+    "src": "assets/index-163baa38.js"
+  },
   "assets/index-163baa38.js": {
     "file": "assets/index-163baa38-c10f2995.js",
     "src": "assets/index-163baa38.js"
   },
   "assets/index-230f10f1-ea076334.css": {
     "file": "assets/index-230f10f1-ea076334.css",
-    "src": "assets/index-230f10f1.css"
+    "src": "assets/index-230f10f1-ea076334.css"
   },
   "assets/index-230f10f1.css": {
     "file": "assets/index-230f10f1-ea076334.css",
-    "src": "assets/index-230f10f1.css"
+    "src": "assets/index-230f10f1-ea076334.css"
   },
   "assets/index-54c928be-75a94360.css": {
     "file": "assets/index-54c928be-75a94360.css",
@@ -165,11 +181,11 @@
   },
   "assets/index-779b5b5f-0b1b47fa.js": {
     "file": "assets/index-779b5b5f-0b1b47fa.js",
-    "src": "assets/index-779b5b5f-0b1b47fa.js"
+    "src": "assets/index-779b5b5f.js"
   },
   "assets/index-779b5b5f.js": {
     "file": "assets/index-779b5b5f-0b1b47fa.js",
-    "src": "assets/index-779b5b5f-0b1b47fa.js"
+    "src": "assets/index-779b5b5f.js"
   },
   "assets/index-7cec503a-d4076d6a.css": {
     "file": "assets/index-7cec503a-d4076d6a.css",
@@ -181,11 +197,11 @@
   },
   "assets/index-a8d41706-1472fe4b.js": {
     "file": "assets/index-a8d41706-1472fe4b.js",
-    "src": "assets/index-a8d41706.js"
+    "src": "assets/index-a8d41706-1472fe4b.js"
   },
   "assets/index-a8d41706.js": {
     "file": "assets/index-a8d41706-1472fe4b.js",
-    "src": "assets/index-a8d41706.js"
+    "src": "assets/index-a8d41706-1472fe4b.js"
   },
   "assets/index-be14831d-a0dd8513.js": {
     "file": "assets/index-be14831d-a0dd8513.js",
@@ -379,12 +395,8 @@
     "file": "assets/whatsapp-b6fc227e.png",
     "src": "assets/whatsapp-b6fc227e.png"
   },
-  "favicon.ico": {
-    "file": "assets/favicon-2e8995a7.ico",
-    "src": "assets/favicon-2e8995a7.ico"
-  },
   "index.css": {
-    "file": "assets/index-cc01d033.css",
+    "file": "assets/index-ff7d70c0.css",
     "src": "index.css"
   },
   "index.html": {
@@ -396,12 +408,12 @@
       "assets/uiIcon-747084fb.png",
       "assets/backend-infrastructure-3f1a5447.png",
       "assets/eclipse-4d2e9745.png",
-      "assets/favicon-2e8995a7.ico",
+      "assets/favicon-2e8995a7-2e8995a7.ico",
       "assets/frontend-infrastructure-e3a624a0.png",
       "assets/game-b738cbc9.png",
       "assets/github-6f8014ec.png",
-      "assets/heroImage-5f5bf70c.png",
       "assets/heroImage-5535b65d-5535b65d.png",
+      "assets/albert-5f5bf70c.png",
       "assets/intellij-5889bd98.png",
       "assets/junit-4908c79e.png",
       "assets/linux-bf7c9352.png",
@@ -411,6 +423,7 @@
       "assets/whatsapp-b6fc227e.png",
       "assets/index-01bf326e-b5a24707.js",
       "assets/index-0e5eed69-18d19321.js",
+      "assets/index-15acfed8-3beb9837.js",
       "assets/index-163baa38-c10f2995.js",
       "assets/index-230f10f1-ea076334.css",
       "assets/index-54c928be-75a94360.css",
@@ -448,9 +461,9 @@
       "assets/roboto-vietnamese-400-normal-d2390f1a.woff"
     ],
     "css": [
-      "assets/index-cc01d033.css"
+      "assets/index-ff7d70c0.css"
     ],
-    "file": "assets/index-15acfed8.js",
+    "file": "assets/index-85b2d389.js",
     "isEntry": true,
     "src": "index.html"
   },
