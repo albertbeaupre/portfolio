@@ -7,10 +7,13 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Albert Beaupre</h1>
-        <p className={styles.description}>
+        <h1 className={styles.title}>
+          Albert Beaupre
+        </h1>
+
+        <h1 className={styles.description}>
           Software Engineer
-        </p>
+        </h1>
       </div>
       <img
         src={getImageUrl("hero/heroImage.png")}

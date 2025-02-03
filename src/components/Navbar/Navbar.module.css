@@ -67,7 +67,7 @@
   }
 
   .menu {
-    position: absolute;
+    position: relative;
     right: 0;
     margin-right: 10%;
     flex-direction: column;
@@ -83,7 +83,6 @@
 
   .menuItems {
     display: none;
-    
     flex-direction: column;
     align-items: center;
     gap: 13px;
