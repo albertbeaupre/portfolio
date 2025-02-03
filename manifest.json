@@ -1,11 +1,11 @@
 {
   "assets/Resume-0346d48e.docx": {
     "file": "assets/Resume-0346d48e.docx",
-    "src": "assets/Resume.docx"
+    "src": "assets/Resume-0346d48e.docx"
   },
   "assets/Resume.docx": {
     "file": "assets/Resume-0346d48e.docx",
-    "src": "assets/Resume.docx"
+    "src": "assets/Resume-0346d48e.docx"
   },
   "assets/about/aboutImage.png": {
     "file": "assets/aboutImage-93a552a7.png",
@@ -60,11 +60,11 @@
     "src": "assets/icons/github.png"
   },
   "assets/hero/heroImage.png": {
-    "file": "assets/heroImage-5535b65d.png",
-    "src": "assets/heroImage-5535b65d.png"
+    "file": "assets/heroImage-5f5bf70c.png",
+    "src": "assets/hero/heroImage.png"
   },
   "assets/heroImage-5535b65d.png": {
-    "file": "assets/heroImage-5535b65d.png",
+    "file": "assets/heroImage-5535b65d-5535b65d.png",
     "src": "assets/heroImage-5535b65d.png"
   },
   "assets/icons/eclipse.png": {
@@ -103,6 +103,10 @@
     "file": "assets/whatsapp-b6fc227e.png",
     "src": "assets/whatsapp-b6fc227e.png"
   },
+  "assets/index-01bf326e-b5a24707.js": {
+    "file": "assets/index-01bf326e-b5a24707.js",
+    "src": "assets/index-01bf326e.js"
+  },
   "assets/index-01bf326e.js": {
     "file": "assets/index-01bf326e-b5a24707.js",
     "src": "assets/index-01bf326e.js"
@@ -115,6 +119,10 @@
     "file": "assets/index-0e5eed69-18d19321.js",
     "src": "assets/index-0e5eed69.js"
   },
+  "assets/index-163baa38.js": {
+    "file": "assets/index-163baa38-c10f2995.js",
+    "src": "assets/index-163baa38.js"
+  },
   "assets/index-230f10f1-ea076334.css": {
     "file": "assets/index-230f10f1-ea076334.css",
     "src": "assets/index-230f10f1.css"
@@ -125,11 +133,11 @@
   },
   "assets/index-54c928be-75a94360.css": {
     "file": "assets/index-54c928be-75a94360.css",
-    "src": "assets/index-54c928be-75a94360.css"
+    "src": "assets/index-54c928be.css"
   },
   "assets/index-54c928be.css": {
     "file": "assets/index-54c928be-75a94360.css",
-    "src": "assets/index-54c928be-75a94360.css"
+    "src": "assets/index-54c928be.css"
   },
   "assets/index-5a9aeaf6-a4852898.js": {
     "file": "assets/index-5a9aeaf6-a4852898.js",
@@ -157,11 +165,11 @@
   },
   "assets/index-779b5b5f-0b1b47fa.js": {
     "file": "assets/index-779b5b5f-0b1b47fa.js",
-    "src": "assets/index-779b5b5f.js"
+    "src": "assets/index-779b5b5f-0b1b47fa.js"
   },
   "assets/index-779b5b5f.js": {
     "file": "assets/index-779b5b5f-0b1b47fa.js",
-    "src": "assets/index-779b5b5f.js"
+    "src": "assets/index-779b5b5f-0b1b47fa.js"
   },
   "assets/index-7cec503a-d4076d6a.css": {
     "file": "assets/index-7cec503a-d4076d6a.css",
@@ -197,11 +205,11 @@
   },
   "assets/index-ca57450c-07c6e400.js": {
     "file": "assets/index-ca57450c-07c6e400.js",
-    "src": "assets/index-ca57450c-07c6e400.js"
+    "src": "assets/index-ca57450c.js"
   },
   "assets/index-ca57450c.js": {
     "file": "assets/index-ca57450c-07c6e400.js",
-    "src": "assets/index-ca57450c-07c6e400.js"
+    "src": "assets/index-ca57450c.js"
   },
   "assets/index-cc01d033-7b5912c1.css": {
     "file": "assets/index-cc01d033-7b5912c1.css",
@@ -213,11 +221,11 @@
   },
   "assets/index-d3ae4b34-9c499e25.js": {
     "file": "assets/index-d3ae4b34-9c499e25.js",
-    "src": "assets/index-d3ae4b34-9c499e25.js"
+    "src": "assets/index-d3ae4b34.js"
   },
   "assets/index-d3ae4b34.js": {
     "file": "assets/index-d3ae4b34-9c499e25.js",
-    "src": "assets/index-d3ae4b34-9c499e25.js"
+    "src": "assets/index-d3ae4b34.js"
   },
   "assets/intellij-5889bd98.png": {
     "file": "assets/intellij-5889bd98.png",
@@ -392,7 +400,8 @@
       "assets/frontend-infrastructure-e3a624a0.png",
       "assets/game-b738cbc9.png",
       "assets/github-6f8014ec.png",
-      "assets/heroImage-5535b65d.png",
+      "assets/heroImage-5f5bf70c.png",
+      "assets/heroImage-5535b65d-5535b65d.png",
       "assets/intellij-5889bd98.png",
       "assets/junit-4908c79e.png",
       "assets/linux-bf7c9352.png",
@@ -402,6 +411,7 @@
       "assets/whatsapp-b6fc227e.png",
       "assets/index-01bf326e-b5a24707.js",
       "assets/index-0e5eed69-18d19321.js",
+      "assets/index-163baa38-c10f2995.js",
       "assets/index-230f10f1-ea076334.css",
       "assets/index-54c928be-75a94360.css",
       "assets/index-5a9aeaf6-a4852898.js",
@@ -440,7 +450,7 @@
     "css": [
       "assets/index-cc01d033.css"
     ],
-    "file": "assets/index-163baa38.js",
+    "file": "assets/index-15acfed8.js",
     "isEntry": true,
     "src": "index.html"
   },
