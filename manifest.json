@@ -1,4 +1,8 @@
 {
+  "assets/Resume-0346d48e.docx": {
+    "file": "assets/Resume-0346d48e.docx",
+    "src": "assets/Resume.docx"
+  },
   "assets/Resume.docx": {
     "file": "assets/Resume-0346d48e.docx",
     "src": "assets/Resume.docx"
@@ -47,6 +51,10 @@
     "file": "assets/frontend-infrastructure-e3a624a0.png",
     "src": "assets/projects/frontend-infrastructure.png"
   },
+  "assets/game-b738cbc9.png": {
+    "file": "assets/game-b738cbc9.png",
+    "src": "assets/projects/game.png"
+  },
   "assets/github-6f8014ec.png": {
     "file": "assets/github-6f8014ec.png",
     "src": "assets/icons/github.png"
@@ -91,6 +99,18 @@
     "file": "assets/react-3185c967.png",
     "src": "assets/react-3185c967.png"
   },
+  "assets/index-0e5eed69-18d19321.js": {
+    "file": "assets/index-0e5eed69-18d19321.js",
+    "src": "assets/index-0e5eed69.js"
+  },
+  "assets/index-0e5eed69.js": {
+    "file": "assets/index-0e5eed69-18d19321.js",
+    "src": "assets/index-0e5eed69.js"
+  },
+  "assets/index-230f10f1-ea076334.css": {
+    "file": "assets/index-230f10f1-ea076334.css",
+    "src": "assets/index-230f10f1.css"
+  },
   "assets/index-230f10f1.css": {
     "file": "assets/index-230f10f1-ea076334.css",
     "src": "assets/index-230f10f1.css"
@@ -102,6 +122,10 @@
   "assets/index-5fd25266.js": {
     "file": "assets/index-5fd25266-7ab40c77.js",
     "src": "assets/index-5fd25266.js"
+  },
+  "assets/index-779b5b5f-0b1b47fa.js": {
+    "file": "assets/index-779b5b5f-0b1b47fa.js",
+    "src": "assets/index-779b5b5f.js"
   },
   "assets/index-779b5b5f.js": {
     "file": "assets/index-779b5b5f-0b1b47fa.js",
@@ -122,6 +146,10 @@
   "assets/index-c81864f4.js": {
     "file": "assets/index-c81864f4-a2bbefad.js",
     "src": "assets/index-c81864f4.js"
+  },
+  "assets/index-ca57450c.js": {
+    "file": "assets/index-ca57450c-07c6e400.js",
+    "src": "assets/index-ca57450c.js"
   },
   "assets/intellij-5889bd98.png": {
     "file": "assets/intellij-5889bd98.png",
@@ -290,6 +318,7 @@
       "assets/eclipse-4d2e9745.png",
       "assets/favicon-2e8995a7.ico",
       "assets/frontend-infrastructure-e3a624a0.png",
+      "assets/game-b738cbc9.png",
       "assets/github-6f8014ec.png",
       "assets/heroImage-5535b65d.png",
       "assets/intellij-5889bd98.png",
@@ -298,11 +327,13 @@
       "assets/mysql-bed5a2a5.png",
       "assets/netty-d1b39199.png",
       "assets/react-3185c967.png",
+      "assets/index-0e5eed69-18d19321.js",
       "assets/index-230f10f1-ea076334.css",
       "assets/index-5fd25266-7ab40c77.js",
       "assets/index-779b5b5f-0b1b47fa.js",
       "assets/index-7cec503a-d4076d6a.css",
       "assets/index-c81864f4-a2bbefad.js",
+      "assets/index-ca57450c-07c6e400.js",
       "assets/messy-7432fdd1.png",
       "assets/node-521da021.png",
       "assets/outfit-latin-400-normal-b20a679d.woff",
@@ -311,7 +342,6 @@
       "assets/outfit-latin-ext-400-normal-7a074dd1.woff",
       "assets/portfolio-5b3accef.png",
       "assets/project-07498ec0.png",
-      "assets/game-b738cbc9.png",
       "assets/react-cccfc4c7.png",
       "assets/roboto-cyrillic-400-normal-495d38d4.woff2",
       "assets/roboto-cyrillic-400-normal-adba67d2.woff",
@@ -329,7 +359,7 @@
     "css": [
       "assets/index-230f10f1.css"
     ],
-    "file": "assets/index-0e5eed69.js",
+    "file": "assets/index-d3ae4b34.js",
     "isEntry": true,
     "src": "index.html"
   },
