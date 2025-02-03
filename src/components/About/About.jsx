@@ -12,7 +12,7 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <div className={styles.aboutItemText}>
               <p>
-                I’ve been passionate about programming since I was 13. I started out reverse-engineering obfuscated code. It was tough—some systems are packed with complex networks, caches, and algorithms—but figuring them out taught me a ton about how these systems work and how to build things from scratch. It was a challenge I loved, and it’s what pushed me to dive deeper into programming.
+                I’ve been passionate about programming since I was 13. I started out reverse-engineering obfuscated code. It was tough—some systems are packed with complex networks, caches, and algorithms—but figuring them out taught me how these systems work and how to build them from scratch. It was a challenge I loved, and it’s what pushed me to dive deeper into programming.
               </p>
               <br />
               <br />

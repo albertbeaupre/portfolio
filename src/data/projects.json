@@ -27,7 +27,8 @@
     "description": "This a ReactJS website that I programmed. I utilized a public template I vastly modified and practically re-wrote.",
     "skills": [
       "React",
-      "CSS"
+      "CSS",
+      "HTML"
     ],
     "demo": "https://albertbeaupre.github.io/portfolio/",
     "source": "https://github.com/albertbeaupre/portfolio"
@@ -39,9 +40,24 @@
     "skills": [
       "Vaadin",
       "Spring Boot",
+      "SQL",
+      "CSS",
+      "HTML",
       "Java",
       "Gradle"
     ],
     "demo": "https://www.example.com"
+  },
+  {
+    "title": "A Terrifying Knight",
+    "imageSrc": "projects/game.png",
+    "description": "A Game Jame submission built using LibGDX framework",
+    "skills": [
+      "Java",
+      "LibGDX",
+      "GWT",
+      "Gradle"
+    ],
+    "demo": "https://sandramoen.itch.io/a-terrifying-knight"
   }
 ]
