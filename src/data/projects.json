@@ -22,7 +22,7 @@
     "source": "https://github.com/albertbeaupre/backend-infrastructure"
   },
   {
-    "title": "Portfolio Website (This one)",
+    "title": "Portfolio Website",
     "imageSrc": "projects/portfolio.png",
     "description": "This a ReactJS website that I programmed. I utilized a public template I vastly modified and practically re-wrote.",
     "skills": [
@@ -30,7 +30,6 @@
       "CSS",
       "HTML"
     ],
-    "demo": "https://albertbeaupre.github.io/portfolio/",
     "source": "https://github.com/albertbeaupre/portfolio"
   },
   {
@@ -45,8 +44,7 @@
       "HTML",
       "Java",
       "Gradle"
-    ],
-    "demo": "https://www.example.com"
+    ]
   },
   {
     "title": "A Terrifying Knight",
