@@ -99,6 +99,10 @@
     "file": "assets/react-3185c967.png",
     "src": "assets/react-3185c967.png"
   },
+  "assets/icons/whatsapp.png": {
+    "file": "assets/whatsapp-b6fc227e.png",
+    "src": "assets/icons/whatsapp.png"
+  },
   "assets/index-0e5eed69-18d19321.js": {
     "file": "assets/index-0e5eed69-18d19321.js",
     "src": "assets/index-0e5eed69.js"
@@ -147,9 +151,17 @@
     "file": "assets/index-c81864f4-a2bbefad.js",
     "src": "assets/index-c81864f4.js"
   },
+  "assets/index-ca57450c-07c6e400.js": {
+    "file": "assets/index-ca57450c-07c6e400.js",
+    "src": "assets/index-ca57450c-07c6e400.js"
+  },
   "assets/index-ca57450c.js": {
     "file": "assets/index-ca57450c-07c6e400.js",
-    "src": "assets/index-ca57450c.js"
+    "src": "assets/index-ca57450c-07c6e400.js"
+  },
+  "assets/index-d3ae4b34.js": {
+    "file": "assets/index-d3ae4b34-9c499e25.js",
+    "src": "assets/index-d3ae4b34.js"
   },
   "assets/intellij-5889bd98.png": {
     "file": "assets/intellij-5889bd98.png",
@@ -327,6 +339,7 @@
       "assets/mysql-bed5a2a5.png",
       "assets/netty-d1b39199.png",
       "assets/react-3185c967.png",
+      "assets/whatsapp-b6fc227e.png",
       "assets/index-0e5eed69-18d19321.js",
       "assets/index-230f10f1-ea076334.css",
       "assets/index-5fd25266-7ab40c77.js",
@@ -334,6 +347,7 @@
       "assets/index-7cec503a-d4076d6a.css",
       "assets/index-c81864f4-a2bbefad.js",
       "assets/index-ca57450c-07c6e400.js",
+      "assets/index-d3ae4b34-9c499e25.js",
       "assets/messy-7432fdd1.png",
       "assets/node-521da021.png",
       "assets/outfit-latin-400-normal-b20a679d.woff",
@@ -359,7 +373,7 @@
     "css": [
       "assets/index-230f10f1.css"
     ],
-    "file": "assets/index-d3ae4b34.js",
+    "file": "assets/index-be14831d.js",
     "isEntry": true,
     "src": "index.html"
   },
