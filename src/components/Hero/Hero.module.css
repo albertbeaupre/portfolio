@@ -5,6 +5,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  /* Keep title/description left, image right */
   margin-top: 49px;
   z-index: 1;
   margin-left: 10%;
@@ -27,8 +28,11 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  /* Align to the left by default */
   color: var(--color-text);
   z-index: 1;
+  text-align: left;
+  /* Align text to the left */
 }
 
 .title {
@@ -44,7 +48,8 @@
 }
 
 .description {
-  text-align: center;
+  text-align: left;
+  /* Keep text aligned to the left */
 }
 
 .contactBtn {
@@ -74,13 +79,14 @@
   object-fit: cover;
   object-position: center;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+  margin-right: 0;
+  margin-left: auto;
 }
 
 .topBlur {
   position: absolute;
   width: 50vw;
   height: 50vw;
-  min-width: 350px;
   min-width: 350px;
   top: -128px;
   left: -10vw;
@@ -90,12 +96,32 @@
   z-index: 0;
 }
 
+/* Media query for smaller screens */
 @media screen and (max-width: 830px) {
   .container {
-    flex-direction: column-reverse;
+    flex-direction: column;
+    /* Stack content vertically */
+    justify-content: center;
+    /* Center content horizontally */
+    align-items: center;
+    /* Align items in the center */
+  }
+
+  .heroImg {
+    margin: 20px 0;
+    /* Add margin between the image and text when stacking */
+  }
+
+  /* Make sure hero image appears above title and description */
+  .heroImg {
+    order: -1;
+    /* Hero image will come first */
   }
 
   .content {
     align-items: center;
+    /* Center the text on smaller screens */
+    text-align: center;
+    /* Center text on smaller screens */
   }
 }

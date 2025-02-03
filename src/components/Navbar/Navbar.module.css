@@ -35,7 +35,7 @@
 }
 
 .menuBtn {
-  display: none;
+  display: none; /* Hide the hamburger menu button */
 }
 
 .menu {
@@ -59,44 +59,22 @@
   text-shadow: 0 0 5px rgba(255, 255, 255, 0.5), 0 0 10px rgba(255, 255, 255, 0.6);
 }
 
-
+/* Media query for smaller screens */
 @media screen and (max-width: 830px) {
   .navbar {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-
-  .menu {
-    position: relative;
-    right: 0;
-    margin-right: 10%;
-    flex-direction: column;
-    align-items: flex-end;
-    gap: 11px;
-    z-index: 3;
-  }
-
-  .menuBtn {
-    display: block;
-    cursor: pointer;
-  }
-
-  .menuItems {
-    display: none;
-    flex-direction: column;
+    flex-direction: column-reverse;
     align-items: center;
-    gap: 13px;
-    border-radius: 10px;
-    background: rgb(25, 55, 109);
-    background: linear-gradient(0deg,
-        rgba(25, 55, 109, 0.2) 0%,
-        rgba(25, 55, 109, 1) 100%);
-    padding: 24px 33px;
-    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+    margin: 0;
+    /* Remove horizontal margins */
   }
 
-  .menuOpen {
+  /* Center the icon container horizontally while keeping them in a row */
+  .icon_container {
     display: flex;
-    z-index: 1;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+    width: 100%;
+
   }
 }
