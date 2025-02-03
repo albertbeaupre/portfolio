@@ -14,10 +14,16 @@ export const Navbar = () => {
           <img className={styles.icon} src={getImageUrl("icons/outlook.png")} alt="Outlook" />
         </a>
         <a href="https://www.linkedin.com/in/albert-beaupre/">
-          <img className={styles.icon} src={getImageUrl("icons/linkedin.png")} alt="Outlook" />
+          <img className={styles.icon} src={getImageUrl("icons/linkedin.png")} alt="LinkedIn" />
         </a>
         <a href="https://github.com/albertbeaupre">
-          <img className={styles.icon} src={getImageUrl("icons/github.png")} alt="Outlook" />
+          <img className={styles.icon} src={getImageUrl("icons/github.png")} alt="GitHub" />
+        </a>
+        <a href="https://wa.me/19038196176">
+          <img className={styles.icon} src={getImageUrl("icons/whatsapp.png")} alt="WhatsApp" />
+        </a>
+        <a href="tel:+19038196176">
+          <img className={styles.icon} src={getImageUrl("icons/phone.png")} alt="Phone" />
         </a>
       </div>
       <div className={styles.menu}>
