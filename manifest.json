@@ -9,7 +9,7 @@
   },
   "assets/about/aboutImage.png": {
     "file": "assets/aboutImage-93a552a7.png",
-    "src": "assets/aboutImage-93a552a7.png"
+    "src": "assets/about/aboutImage.png"
   },
   "assets/about/cursorIcon.png": {
     "file": "assets/cursorIcon-22d0a330.png",
@@ -25,7 +25,7 @@
   },
   "assets/aboutImage-93a552a7.png": {
     "file": "assets/aboutImage-93a552a7.png",
-    "src": "assets/aboutImage-93a552a7.png"
+    "src": "assets/about/aboutImage.png"
   },
   "assets/backend-infrastructure-3f1a5447.png": {
     "file": "assets/backend-infrastructure-3f1a5447.png",
@@ -61,11 +61,11 @@
   },
   "assets/hero/heroImage.png": {
     "file": "assets/heroImage-5535b65d.png",
-    "src": "assets/hero/heroImage.png"
+    "src": "assets/heroImage-5535b65d.png"
   },
   "assets/heroImage-5535b65d.png": {
     "file": "assets/heroImage-5535b65d.png",
-    "src": "assets/hero/heroImage.png"
+    "src": "assets/heroImage-5535b65d.png"
   },
   "assets/icons/eclipse.png": {
     "file": "assets/eclipse-4d2e9745.png",
@@ -119,6 +119,10 @@
     "file": "assets/index-230f10f1-ea076334.css",
     "src": "assets/index-230f10f1.css"
   },
+  "assets/index-54c928be.css": {
+    "file": "assets/index-54c928be-75a94360.css",
+    "src": "assets/index-54c928be.css"
+  },
   "assets/index-5fd25266-7ab40c77.js": {
     "file": "assets/index-5fd25266-7ab40c77.js",
     "src": "assets/index-5fd25266.js"
@@ -143,17 +147,25 @@
     "file": "assets/index-7cec503a-d4076d6a.css",
     "src": "assets/index-7cec503a.css"
   },
+  "assets/index-a8d41706.js": {
+    "file": "assets/index-a8d41706-1472fe4b.js",
+    "src": "assets/index-a8d41706.js"
+  },
+  "assets/index-be14831d-a0dd8513.js": {
+    "file": "assets/index-be14831d-a0dd8513.js",
+    "src": "assets/index-be14831d-a0dd8513.js"
+  },
   "assets/index-be14831d.js": {
     "file": "assets/index-be14831d-a0dd8513.js",
-    "src": "assets/index-be14831d.js"
+    "src": "assets/index-be14831d-a0dd8513.js"
   },
   "assets/index-c81864f4-a2bbefad.js": {
     "file": "assets/index-c81864f4-a2bbefad.js",
-    "src": "assets/index-c81864f4.js"
+    "src": "assets/index-c81864f4-a2bbefad.js"
   },
   "assets/index-c81864f4.js": {
     "file": "assets/index-c81864f4-a2bbefad.js",
-    "src": "assets/index-c81864f4.js"
+    "src": "assets/index-c81864f4-a2bbefad.js"
   },
   "assets/index-ca57450c-07c6e400.js": {
     "file": "assets/index-ca57450c-07c6e400.js",
@@ -354,9 +366,11 @@
       "assets/whatsapp-b6fc227e.png",
       "assets/index-0e5eed69-18d19321.js",
       "assets/index-230f10f1-ea076334.css",
+      "assets/index-54c928be-75a94360.css",
       "assets/index-5fd25266-7ab40c77.js",
       "assets/index-779b5b5f-0b1b47fa.js",
       "assets/index-7cec503a-d4076d6a.css",
+      "assets/index-a8d41706-1472fe4b.js",
       "assets/index-be14831d-a0dd8513.js",
       "assets/index-c81864f4-a2bbefad.js",
       "assets/index-ca57450c-07c6e400.js",
@@ -386,7 +400,7 @@
     "css": [
       "assets/index-54c928be.css"
     ],
-    "file": "assets/index-a8d41706.js",
+    "file": "assets/index-5a9aeaf6.js",
     "isEntry": true,
     "src": "index.html"
   },
