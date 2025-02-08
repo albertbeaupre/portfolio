@@ -1,25 +1,14 @@
 [
   {
-    "title": "Front End Infrastructure (In Progress)",
-    "imageSrc": "projects/frontend-infrastructure.png",
-    "description": "Meant to assist developers in creating a stable front-end infrastructure efficiently.",
-    "skills": [
-      "Java",
-      "IntelliJ",
-      "Gradle"
-    ],
-    "source": "https://github.com/albertbeaupre/frontend-infrastructure"
-  },
-  {
-    "title": "Back End Infrastructure",
+    "title": "Full Stack Infrastructure (In Progress)",
     "imageSrc": "projects/backend-infrastructure.png",
-    "description": "Meant to assist developers in creating a stable back-end infrastructure efficiently.",
+    "description": "Meant to assist developers in creating a stable full stack infrastructure efficiently.",
     "skills": [
       "Java",
       "IntelliJ",
       "Gradle"
     ],
-    "source": "https://github.com/albertbeaupre/backend-infrastructure"
+    "source": "https://github.com/albertbeaupre/full-stack-infrastructure"
   },
   {
     "title": "Portfolio Website",
@@ -49,7 +38,7 @@
   {
     "title": "A Terrifying Knight",
     "imageSrc": "projects/game.png",
-    "description": "A Game Jame submission built using LibGDX framework",
+    "description": "A Game Jam submission built using LibGDX framework",
     "skills": [
       "Java",
       "LibGDX",
