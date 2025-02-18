@@ -1,20 +1,32 @@
 [
   {
-    "name": "Google IT Support Professional",
+    "name": "Bachelor's of Computer Science",
+    "organization": "University of Maryland Global Campus",
+    "date": "Pursuing",
+    "imageSrc": "icons/umgc.jpg"
+  },
+  {
+    "name": "IT Support Professional",
     "organization": "Google",
-    "date": "April 29th, 2024",
+    "date": "April 2024",
     "imageSrc": "icons/google.png"
   },
   {
-    "name": "IBM IT Support Professional",
-    "organization": "IBM",
-    "date": "May 24, 2024",
-    "imageSrc": "icons/ibm.png"
-  },
-  {
-    "name": "IBM IT Project Manager",
+    "name": "IT Support Professional",
     "organization": "IBM",
     "date": "May 2024",
     "imageSrc": "icons/ibm.png"
+  },
+  {
+    "name": "IT Project Manager",
+    "organization": "IBM",
+    "date": "February 2025",
+    "imageSrc": "icons/ibm.png"
+  },
+  {
+    "name": "Certified Java Professional",
+    "organization": "Oracle",
+    "date": "Pursuing",
+    "imageSrc": "icons/oracle.png"
   }
 ]
