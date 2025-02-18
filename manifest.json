@@ -49,7 +49,7 @@
   },
   "assets/icons/umgc.jpg": {
     "file": "assets/umgc-3eaa7a88.jpg",
-    "src": "assets/icons/umgc.jpg"
+    "src": "assets/umgc-3eaa7a88.jpg"
   },
   "assets/icons/whatsapp.png": {
     "file": "assets/whatsapp-b6fc227e.png",
@@ -58,6 +58,14 @@
   "assets/images/albert.png": {
     "file": "assets/albert-5f5bf70c.png",
     "src": "assets/images/albert.png"
+  },
+  "assets/index-5abc5d85.css": {
+    "file": "assets/index-5abc5d85-b5c8d40e.css",
+    "src": "assets/index-5abc5d85.css"
+  },
+  "assets/index-bf228596.js": {
+    "file": "assets/index-bf228596-508ee086.js",
+    "src": "assets/index-bf228596.js"
   },
   "assets/projects/backend-infrastructure.png": {
     "file": "assets/backend-infrastructure-3f1a5447.png",
@@ -85,7 +93,7 @@
   },
   "assets/projects/toptier.png": {
     "file": "assets/toptier-8649a424.png",
-    "src": "assets/projects/toptier.png"
+    "src": "assets/toptier-8649a424.png"
   },
   "assets/skills/node.png": {
     "file": "assets/node-521da021.png",
@@ -94,6 +102,14 @@
   "assets/skills/react.png": {
     "file": "assets/react-cccfc4c7.png",
     "src": "assets/skills/react.png"
+  },
+  "assets/toptier-8649a424.png": {
+    "file": "assets/toptier-8649a424.png",
+    "src": "assets/toptier-8649a424.png"
+  },
+  "assets/umgc-3eaa7a88.jpg": {
+    "file": "assets/umgc-3eaa7a88.jpg",
+    "src": "assets/umgc-3eaa7a88.jpg"
   },
   "favicon.ico": {
     "file": "assets/favicon-2e8995a7.ico",
@@ -120,6 +136,8 @@
       "assets/umgc-3eaa7a88.jpg",
       "assets/whatsapp-b6fc227e.png",
       "assets/albert-5f5bf70c.png",
+      "assets/index-5abc5d85-b5c8d40e.css",
+      "assets/index-bf228596-508ee086.js",
       "assets/backend-infrastructure-3f1a5447.png",
       "assets/frontend-infrastructure-e3a624a0.png",
       "assets/game-b738cbc9.png",
@@ -149,7 +167,7 @@
     "css": [
       "assets/index-5abc5d85.css"
     ],
-    "file": "assets/index-bf228596.js",
+    "file": "assets/index-d83c2afe.js",
     "isEntry": true,
     "src": "index.html"
   },
