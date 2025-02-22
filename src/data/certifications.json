@@ -8,23 +8,20 @@
   {
     "name": "IT Support Professional",
     "organization": "Google",
-    "date": "April 29th, 2024",
-    "imageSrc": "icons/google.png",
-    "certificateURL": "https://www.coursera.org/account/accomplishments/professional-cert/9HWQVYUVSQGM"
+    "date": "April 2024",
+    "imageSrc": "icons/google.png"
   },
   {
     "name": "IT Support Professional",
     "organization": "IBM",
-    "date": "February 18th, 2025",
-    "imageSrc": "icons/ibm.png",
-    "certificateURL": "https://www.coursera.org/account/accomplishments/professional-cert/JA5OOJSJDA22"
+    "date": "May 2024",
+    "imageSrc": "icons/ibm.png"
   },
   {
     "name": "IT Project Manager",
     "organization": "IBM",
-    "date": "February 22nd, 2025",
-    "imageSrc": "icons/ibm.png",
-    "certificateURL": "https://www.coursera.org/account/accomplishments/professional-cert/MO40O7OFGQ8B"
+    "date": "February 2025",
+    "imageSrc": "icons/ibm.png"
   },
   {
     "name": "Certified Java Professional",

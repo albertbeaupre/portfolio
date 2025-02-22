@@ -15,7 +15,6 @@
   "dependencies": {
     "@fontsource/outfit": "^5.0.8",
     "@fontsource/roboto": "^5.0.8",
-    "framer-motion": "^12.4.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },

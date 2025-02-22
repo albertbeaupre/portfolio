@@ -109,21 +109,7 @@ export const Experience = () => {
                 <div className={styles.historyItemDetails}>
                   <h3>{`${cert.name}`}</h3>
                   <h2>{`${cert.organization}`}</h2>
-                  <p>{`${cert.date}`}
-                  &nbsp;&nbsp;&nbsp;&nbsp;
-                  {cert.certificateURL && (
-                    <a
-                      href={cert.certificateURL}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                    <button className={styles.certificateButton}>
-                      View Certificate
-                    </button>
-                    </a>
-                  )}
-                  </p>
-                  
+                  <p>{`${cert.date}`}</p>
                 </div>
               </li>
             );

@@ -111,17 +111,9 @@
     "file": "assets/index-bf228596-508ee086.js",
     "src": "assets/index-bf228596.js"
   },
-  "assets/index-d83c2afe-756c1bf4.js": {
-    "file": "assets/index-d83c2afe-756c1bf4.js",
-    "src": "assets/index-d83c2afe.js"
-  },
   "assets/index-d83c2afe.js": {
     "file": "assets/index-d83c2afe-756c1bf4.js",
     "src": "assets/index-d83c2afe.js"
-  },
-  "assets/index-f8c784b7.js": {
-    "file": "assets/index-f8c784b7-011731c6.js",
-    "src": "assets/index-f8c784b7.js"
   },
   "assets/intellij-5889bd98.png": {
     "file": "assets/intellij-5889bd98.png",
@@ -292,7 +284,7 @@
     "src": "assets/favicon-2e8995a7.ico"
   },
   "index.css": {
-    "file": "assets/index-61c919b3.css",
+    "file": "assets/index-5abc5d85.css",
     "src": "index.css"
   },
   "index.html": {
@@ -319,7 +311,6 @@
       "assets/index-5abc5d85-b5c8d40e.css",
       "assets/index-bf228596-508ee086.js",
       "assets/index-d83c2afe-756c1bf4.js",
-      "assets/index-f8c784b7-011731c6.js",
       "assets/messy-7432fdd1.png",
       "assets/node-521da021.png",
       "assets/outfit-latin-400-normal-b20a679d.woff",
@@ -344,9 +335,9 @@
       "assets/roboto-vietnamese-400-normal-d2390f1a.woff"
     ],
     "css": [
-      "assets/index-61c919b3.css"
+      "assets/index-5abc5d85.css"
     ],
-    "file": "assets/index-8b8415c1.js",
+    "file": "assets/index-f8c784b7.js",
     "isEntry": true,
     "src": "index.html"
   },

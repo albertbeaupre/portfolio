@@ -96,29 +96,27 @@
 
 .resumeButton {
   display: inline-block;
-  outline: 0;
-  border: 0;
-  cursor: pointer;
-  background-color: #007ec7;
-  border-radius: 4px;
-  padding: 8px 16px;
-  font-size: 16px;
-  font-weight: 700;
-  color: white;
-  line-height: 26px;
-  transition: ease 0.2s;
+  /* Ensures the button doesn’t take full width */
   margin-top: 30px;
-  text-decoration: none;
+  padding: 12px 20px;
+  background-color: #0973e4;
+  color: white;
+  border: none;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: ease 0.3s;
+  text-align: center;
+  text-decoration: none; 
 }
 
-
-
 .resumeButton:hover {
-  background-color: #02476e;
+  background-color: #0056b3;
 }
 
 .resumeButton:active {
-  background-color: #01578a;
+  background-color: #00408a;
   transform: scale(0.95);
 }
 
