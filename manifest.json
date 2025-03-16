@@ -95,6 +95,10 @@
     "file": "assets/albert-5f5bf70c.png",
     "src": "assets/images/albert.png"
   },
+  "assets/index-304ca662.js": {
+    "file": "assets/index-304ca662-0d2aa91e.js",
+    "src": "assets/index-304ca662.js"
+  },
   "assets/index-5abc5d85-b5c8d40e.css": {
     "file": "assets/index-5abc5d85-b5c8d40e.css",
     "src": "assets/index-5abc5d85.css"
@@ -118,6 +122,10 @@
   "assets/index-d83c2afe.js": {
     "file": "assets/index-d83c2afe-756c1bf4.js",
     "src": "assets/index-d83c2afe-756c1bf4.js"
+  },
+  "assets/index-f8c784b7-011731c6.js": {
+    "file": "assets/index-f8c784b7-011731c6.js",
+    "src": "assets/index-f8c784b7.js"
   },
   "assets/index-f8c784b7.js": {
     "file": "assets/index-f8c784b7-011731c6.js",
@@ -316,6 +324,7 @@
       "assets/react-3185c967.png",
       "assets/umgc-3eaa7a88.jpg",
       "assets/whatsapp-b6fc227e.png",
+      "assets/index-304ca662-0d2aa91e.js",
       "assets/index-5abc5d85-b5c8d40e.css",
       "assets/index-bf228596-508ee086.js",
       "assets/index-d83c2afe-756c1bf4.js",
@@ -346,7 +355,7 @@
     "css": [
       "assets/index-5abc5d85.css"
     ],
-    "file": "assets/index-304ca662.js",
+    "file": "assets/index-18d175ec.js",
     "isEntry": true,
     "src": "index.html"
   },
