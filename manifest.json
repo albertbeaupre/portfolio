@@ -1,7 +1,7 @@
 {
   "assets/about/aboutImage.png": {
     "file": "assets/aboutImage-93a552a7.png",
-    "src": "assets/aboutImage-93a552a7.png"
+    "src": "assets/about/aboutImage.png"
   },
   "assets/about/cursorIcon.png": {
     "file": "assets/cursorIcon-22d0a330.png",
@@ -17,7 +17,7 @@
   },
   "assets/aboutImage-93a552a7.png": {
     "file": "assets/aboutImage-93a552a7.png",
-    "src": "assets/aboutImage-93a552a7.png"
+    "src": "assets/about/aboutImage.png"
   },
   "assets/albert-5f5bf70c.png": {
     "file": "assets/albert-5f5bf70c.png",
@@ -105,15 +105,23 @@
   },
   "assets/index-bf228596-508ee086.js": {
     "file": "assets/index-bf228596-508ee086.js",
-    "src": "assets/index-bf228596.js"
+    "src": "assets/index-bf228596-508ee086.js"
   },
   "assets/index-bf228596.js": {
     "file": "assets/index-bf228596-508ee086.js",
-    "src": "assets/index-bf228596.js"
+    "src": "assets/index-bf228596-508ee086.js"
+  },
+  "assets/index-d83c2afe-756c1bf4.js": {
+    "file": "assets/index-d83c2afe-756c1bf4.js",
+    "src": "assets/index-d83c2afe.js"
   },
   "assets/index-d83c2afe.js": {
     "file": "assets/index-d83c2afe-756c1bf4.js",
     "src": "assets/index-d83c2afe.js"
+  },
+  "assets/index-f8c784b7.js": {
+    "file": "assets/index-f8c784b7-011731c6.js",
+    "src": "assets/index-f8c784b7.js"
   },
   "assets/intellij-5889bd98.png": {
     "file": "assets/intellij-5889bd98.png",
@@ -311,6 +319,7 @@
       "assets/index-5abc5d85-b5c8d40e.css",
       "assets/index-bf228596-508ee086.js",
       "assets/index-d83c2afe-756c1bf4.js",
+      "assets/index-f8c784b7-011731c6.js",
       "assets/messy-7432fdd1.png",
       "assets/node-521da021.png",
       "assets/outfit-latin-400-normal-b20a679d.woff",
@@ -337,7 +346,7 @@
     "css": [
       "assets/index-5abc5d85.css"
     ],
-    "file": "assets/index-f8c784b7.js",
+    "file": "assets/index-304ca662.js",
     "isEntry": true,
     "src": "index.html"
   },
